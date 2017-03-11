@@ -1,5 +1,5 @@
 {
-  "name": "udebug",
+  "name": "uhunt-node",
   "version": "1.0.0",
   "description": "Get results of exercises from Udebug",
   "main": "index.js",
@@ -15,6 +15,13 @@
     "coding",
     "programming",
     "excercises"
+  ],
+  "files": [
+    "lib/",
+    "package.json",
+    "index.js",
+    "LICENSE",
+    "README.md"
   ],
   "author": "@anlijudavid",
   "license": "MIT",
