@@ -21,7 +21,7 @@ uhunt.byId("161").then((data) => {
 ```
 
 ```js
-// Get by id excercise
+// Get by number excercise
 uhunt.byNum("100").then((data) => {
     console.log(data);
 }, error => {
@@ -38,8 +38,19 @@ uhunt.getUserSubmission("339").then((data) => {
 })
 ```
 
+```js
+// Get list excersices
+uhunt.list().then((data) => {
+    console.log(data);
+}, error => {
+    console.log(error);
+})
+```
+
 #### In progress
 
 Author: [@anlijudavid](https://github.com/juliandavidmr/)
+
+**Pull requests accepted**
 
 Licence MIT
