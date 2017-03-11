@@ -1,17 +1,18 @@
 {
   "name": "uhunt-node",
   "version": "1.0.0",
-  "description": "Get results of exercises from Udebug",
+  "description": "Get data from ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juliandavidmr/uDebug.git"
+    "url": "git+https://github.com/juliandavidmr/uhunt-node.git"
   },
   "keywords": [
-    "udebug",
+    "uhunt",
+    "uhunt-node",
     "coding",
     "programming",
     "excercises"
@@ -26,9 +27,9 @@
   "author": "@anlijudavid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juliandavidmr/uDebug/issues"
+    "url": "https://github.com/juliandavidmr/uhunt-node/issues"
   },
-  "homepage": "https://github.com/juliandavidmr/uDebug#readme",
+  "homepage": "https://github.com/juliandavidmr/uhunt-node#readme",
   "dependencies": {
     "axios": "^0.15.3"
   }
