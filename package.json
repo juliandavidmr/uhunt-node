@@ -1,0 +1,28 @@
+{
+  "name": "udebug",
+  "version": "1.0.0",
+  "description": "Get results of exercises from Udebug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/uDebug.git"
+  },
+  "keywords": [
+    "udebug",
+    "coding",
+    "programming",
+    "excercises"
+  ],
+  "author": "@anlijudavid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/uDebug/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/uDebug#readme",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
