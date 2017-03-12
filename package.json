@@ -1,6 +1,6 @@
 {
   "name": "uhunt-node",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Get data from ",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/juliandavidmr/uhunt-node#readme",
   "dependencies": {
-    "axios": "^0.15.3"
+    "axios": "^0.15.3",
+    "moment": "^2.17.1"
   }
 }
