@@ -1,7 +1,7 @@
 {
   "name": "uhunt-node",
-  "version": "1.0.3",
-  "description": "Get data from ",
+  "version": "1.0.4",
+  "description": "Get information of exercises from UVA Judge and uHunt.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
