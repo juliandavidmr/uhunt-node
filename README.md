@@ -1,5 +1,7 @@
 # uhunt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/uhunt-node.svg)](https://greenkeeper.io/)
+
 Get information of exercises from UVA Judge and uHunt.
 
 API Public: *http://uhunt.felix-halim.net/api*
